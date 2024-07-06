@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# In this app I have implemented search functionality for countries. User can use it for searching countries.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## To run the project, follow below steps:
 
-## Available Scripts
+### In the project directory, you can run:
 
-In the project directory, you can run:
+#### 1. `npm install`
+#### 2. `npm start`
 
-### `npm start`
+### Implemented all the features mentioned in the pdf:
+#### 1. Functionality completion using described tools
+#### 2. Elegant and minimalistic design just like smallcase.com website as mentioned
+#### 3. Responsiveness
+#### 4. Used TailwindCSS for styling
+#### 5. Used typescript, added animations and smooth transitions
+#### 6. Wrote tests for each components
+#### 7. Taken care of accessiblity as well
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Three cases of search functionality:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 1. When the searchbox is empty:
+<img width="1440" alt="Screenshot 2024-07-07 at 2 17 17 AM" src="https://github.com/nishant3005/creativescript-assignment/assets/89506403/6bc48426-ea8f-450d-9dac-4aa029cda444">
 
-### `npm test`
+### 2. When user types something and it is present:
+<img width="1440" alt="Screenshot 2024-07-07 at 2 17 34 AM" src="https://github.com/nishant3005/creativescript-assignment/assets/89506403/be9bd15e-2778-4f8d-a413-38befed6b346">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. When user types something and it is not present:
+<img width="1440" alt="Screenshot 2024-07-07 at 2 17 49 AM" src="https://github.com/nishant3005/creativescript-assignment/assets/89506403/6aab0b03-9d49-4d09-ad61-c41d194474f0">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech stack used:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### 1. Reactjs
+#### 2. TailwindCSS
+#### 3. Typescript
+#### 4. Jest
+#### 5. Axios
